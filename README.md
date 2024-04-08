@@ -13,5 +13,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="swagger" height="40" width="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" height="40" width="40"/>&nbsp;
 
+### Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikageH24&theme=panda)
 
