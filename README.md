@@ -1,5 +1,5 @@
 ### Привет! 
-Меня зовут Мария. Я тестировщик, который занимается как ручным тестированием, так и написанием автотестов. Основной домен - тестирование веб-приложений (front + back).
+Меня зовут Мария. Я тестировщик, который занимается как ручным тестированием, так и написанием автотестов (UI, API). Основной домен - тестирование веб-приложений (front + back).
 ### Current tech stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" height="40" width="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="pytest" height="40" width="40"/>&nbsp;
